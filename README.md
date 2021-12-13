@@ -32,6 +32,7 @@
     <li>
       <a href="#about2">About The Project</a>
       <ul>
+        <li><a href="#build3">Features</a></li>
         <li><a href="#build2">Built With</a></li>
       </ul>
     </li>
@@ -47,21 +48,33 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This project is basically a online student portal, which offers academic stuffs such as pre-advising, course management, course details, time schedule, seat status for course etc. This also show the students informations.
+This project is basically a online student portal, which offers academic stuffs such as pre-advising, course management, course details, time schedule, seat status for course etc. This also show the students informations. 
 
-
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
-Use the `BLANK_README.md` to get started.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+ <div id="build3"></div>
+  
+ ### Features
 
+  * Advising
+    * Students can take their desired course for their upcoming semester in online without any hassle
+    * Other necessary job such as ADD / DROP / SWAP also can be done without any academic/departmental privileges
+  * Dashboard
+    * It shows current academic overview of the student
+    * Shows general information of the student who is currently logged-in
+    * Course taken for the upcoming semester is also visible in a good manner with class timing so that one can detect if there any clash in schedule
+  * Class schedule
+      * Each couse is listed with class timing, faculty name and section which is offered for the next semester
+      * Available seats for each course is also mentioned
+      * All the courses are divided by their department so that one can find their course easily
+  * Secured login system
+  
+ <p align="right">(<a href="#top">back to top</a>)</p>
+  
+  
 <div id="build2"></div>
+ 
 
 
 ### Built With
